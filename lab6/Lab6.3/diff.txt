@@ -1,0 +1,28 @@
+Сравнение файлов temp.txt и SERVICES.TXT
+***** temp.txt
+   Diagnostics Tracking Service
+   GamesAppIntegrationService
+***** SERVICES.TXT
+   Diagnostics Tracking Service
+   DNS-клиент
+   GamesAppIntegrationService
+*****
+
+***** temp.txt
+   Plug and Play
+   Quality Windows Audio Video Experience
+   SQL Server (SQLEXPRESS)
+***** SERVICES.TXT
+   Plug and Play
+   SQL Server (SQLEXPRESS)
+*****
+
+***** temp.txt
+   Удаленный вызов процедур (RPC)
+   Узел службы диагностики
+***** SERVICES.TXT
+   Удаленный вызов процедур (RPC)
+   Узел системы диагностики
+   Узел службы диагностики
+*****
+

@@ -1,0 +1,13 @@
+1) ver
+---или---
+1) wmic os get caption
+
+2) wmic os get FreePhysicalMemory
+
+3) wmic os get TotalVisibleMemorySize
+
+4) wmic Localdisk get Name, Description, FreeSpace
+
+5) Не хотел переписывать имена файлов в команду copy, поэтому:
+   for %f in (*.txt) do type "%f" >> all.txt
+   Находился в директории LAB6, в файле есть крякозябры из-за локали

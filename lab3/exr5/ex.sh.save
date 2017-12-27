@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for process in $(ps -A -o pid | tail -n +2)
+do
+status="/proc/$process/status"
+sched="/proc/$process/sched"
+ppid=$(grep -hsi "PPid:" "$status" | awk 'BEGIN{FS="\t"}{print $2}')
+sleepavg=$(grep -hsi "avg_atom" "$sched" | grep -o "[0-9.]\+
+"
+done
+
+

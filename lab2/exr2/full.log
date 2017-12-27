@@ -1,0 +1,238 @@
+[    24.885] Warning: The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[    24.885] Warning: The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+[    24.885] Warning: The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[    24.885] Warning: The directory "/usr/share/fonts/X11/100dpi" does not exist.
+[    24.885] Warning: The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[    25.146] Warning: Warning, couldn't open module nvidia
+[    25.155] Warning: Warning, couldn't open module nvidia
+[    25.157] Warning: Falling back to old probe method for modesetting
+[    25.157] Warning: Falling back to old probe method for fbdev
+[    25.157] Warning: Falling back to old probe method for vesa
+[    25.600] Warning: evdev: MOSART Semi. 2.4G Wireless Mouse: ignoring absolute axes.
+[    24.885] Information: The server relies on udev to provide the list of input devices.
+[    24.885] Information: Loader magic: 0x5636c1bdadc0
+[    24.885] Information: Module ABI versions:
+[    24.886] Information: systemd-logind: logind integration requires -keeptty and -keeptty was not provided, disabling logind integration
+[    24.886] Information: xfree86: Adding drm device (/dev/dri/card0)
+[    24.888] Information: xfree86: Adding drm device (/dev/dri/card1)
+[    24.889] Information: LoadModule: "glx"
+[    24.909] Information: Loading /usr/lib/xorg/modules/extensions/libglx.so
+[    25.134] Information: Module glx: vendor="X.Org Foundation"
+[    25.134] Information: LoadModule: "intel"
+[    25.135] Information: Loading /usr/lib/xorg/modules/drivers/intel_drv.so
+[    25.146] Information: Module intel: vendor="X.Org Foundation"
+[    25.146] Information: LoadModule: "nvidia"
+[    25.146] Information: UnloadModule: "nvidia"
+[    25.147] Information: Unloading nvidia
+[    25.147] Information: LoadModule: "nouveau"
+[    25.147] Information: Loading /usr/lib/xorg/modules/drivers/nouveau_drv.so
+[    25.154] Information: Module nouveau: vendor="X.Org Foundation"
+[    25.154] Information: LoadModule: "modesetting"
+[    25.154] Information: Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[    25.154] Information: Module modesetting: vendor="X.Org Foundation"
+[    25.154] Information: LoadModule: "fbdev"
+[    25.154] Information: Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[    25.154] Information: Module fbdev: vendor="X.Org Foundation"
+[    25.154] Information: LoadModule: "vesa"
+[    25.155] Information: Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[    25.155] Information: Module vesa: vendor="X.Org Foundation"
+[    25.155] Information: LoadModule: "intel"
+[    25.155] Information: Loading /usr/lib/xorg/modules/drivers/intel_drv.so
+[    25.155] Information: Module intel: vendor="X.Org Foundation"
+[    25.155] Information: UnloadModule: "intel"
+[    25.155] Information: Unloading intel
+[    25.155] Information: Failed to load module "intel" (already loaded, 22070)
+[    25.155] Information: LoadModule: "nvidia"
+[    25.155] Information: UnloadModule: "nvidia"
+[    25.155] Information: Unloading nvidia
+[    25.155] Information: LoadModule: "nouveau"
+[    25.155] Information: Loading /usr/lib/xorg/modules/drivers/nouveau_drv.so
+[    25.155] Information: Module nouveau: vendor="X.Org Foundation"
+[    25.155] Information: UnloadModule: "nouveau"
+[    25.155] Information: Unloading nouveau
+[    25.155] Information: Failed to load module "nouveau" (already loaded, 0)
+[    25.155] Information: LoadModule: "modesetting"
+[    25.155] Information: Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[    25.155] Information: Module modesetting: vendor="X.Org Foundation"
+[    25.155] Information: UnloadModule: "modesetting"
+[    25.155] Information: Unloading modesetting
+[    25.155] Information: Failed to load module "modesetting" (already loaded, 0)
+[    25.155] Information: LoadModule: "fbdev"
+[    25.155] Information: Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[    25.156] Information: Module fbdev: vendor="X.Org Foundation"
+[    25.156] Information: UnloadModule: "fbdev"
+[    25.156] Information: Unloading fbdev
+[    25.156] Information: Failed to load module "fbdev" (already loaded, 0)
+[    25.156] Information: LoadModule: "vesa"
+[    25.156] Information: Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[    25.156] Information: Module vesa: vendor="X.Org Foundation"
+[    25.156] Information: UnloadModule: "vesa"
+[    25.156] Information: Unloading vesa
+[    25.156] Information: Failed to load module "vesa" (already loaded, 0)
+[    25.156] Information: intel: Driver for Intel(R) Integrated Graphics Chipsets:
+[    25.156] Information: intel: Driver for Intel(R) HD Graphics: 2000-6000
+[    25.156] Information: intel: Driver for Intel(R) Iris(TM) Graphics: 5100, 6100
+[    25.156] Information: intel: Driver for Intel(R) Iris(TM) Pro Graphics: 5200, 6200, P6300
+[    25.156] Information: NOUVEAU driver Date:   Tue Dec 8 15:52:25 2015 +1000
+[    25.156] Information: NOUVEAU driver for NVIDIA chipset families :
+[    25.156] Information: modesetting: Driver for Modesetting Kernel Drivers: kms
+[    25.156] Information: FBDEV: driver for framebuffer: fbdev
+[    25.156] Information: VESA: driver for VESA chipsets: vesa
+[    25.156] Information: intel(0): Using Kernel Mode Setting driver: i915, version 1.6.0 20161121
+[    25.156] Information: intel(0): SNA compiled: xserver-xorg-video-intel 2:2.99.917+git20160325-1ubuntu1.2 (Timo Aaltonen <tjaalton@debian.org>)
+[    25.156] Information: intel(0): SNA compiled for use with valgrind
+[    25.156] Information: [drm] nouveau interface version: 1.3.1
+[    25.157] Information: Loading sub module "fbdevhw"
+[    25.157] Information: LoadModule: "fbdevhw"
+[    25.157] Information: Loading /usr/lib/xorg/modules/libfbdevhw.so
+[    25.157] Information: Module fbdevhw: vendor="X.Org Foundation"
+[    25.157] Information: intel(0): Creating default Display subsection in Screen section
+[    25.157] Information: intel(0): Output eDP1 has no monitor section
+[    25.180] Information: intel(0): Enabled output eDP1
+[    25.180] Information: intel(0): Output DP1 has no monitor section
+[    25.180] Information: intel(0): Enabled output DP1
+[    25.180] Information: intel(0): Output HDMI1 has no monitor section
+[    25.180] Information: intel(0): Enabled output HDMI1
+[    25.180] Information: intel(0): Output VIRTUAL1 has no monitor section
+[    25.180] Information: intel(0): Enabled output VIRTUAL1
+[    25.180] Information: Loading sub module "dri2"
+[    25.180] Information: LoadModule: "dri2"
+[    25.180] Information: Module "dri2" already built-in
+[    25.180] Information: Loading sub module "present"
+[    25.180] Information: LoadModule: "present"
+[    25.180] Information: Module "present" already built-in
+[    25.180] Information: Loading sub module "dri2"
+[    25.180] Information: LoadModule: "dri2"
+[    25.180] Information: Module "dri2" already built-in
+[    25.180] Information: NOUVEAU(G0): Modeline "1600x900"x59.9  118.25  1600 1696 1856 2112  900 903 908 934 -hsync +vsync (56.0 kHz)
+[    25.180] Information: Loading sub module "fb"
+[    25.180] Information: LoadModule: "fb"
+[    25.181] Information: Loading /usr/lib/xorg/modules/libfb.so
+[    25.181] Information: Module fb: vendor="X.Org Foundation"
+[    25.181] Information: Loading sub module "shadowfb"
+[    25.181] Information: LoadModule: "shadowfb"
+[    25.181] Information: Loading /usr/lib/xorg/modules/libshadowfb.so
+[    25.181] Information: Module shadowfb: vendor="X.Org Foundation"
+[    25.181] Information: UnloadModule: "modesetting"
+[    25.181] Information: Unloading modesetting
+[    25.181] Information: UnloadModule: "fbdev"
+[    25.181] Information: Unloading fbdev
+[    25.181] Information: UnloadSubModule: "fbdevhw"
+[    25.181] Information: Unloading fbdevhw
+[    25.181] Information: UnloadModule: "vesa"
+[    25.181] Information: Unloading vesa
+[    25.330] Information: NOUVEAU(G0): Channel setup complete.
+[    25.373] Information: NOUVEAU(G0): [COPY] async initialised.
+[    25.385] Information: NOUVEAU(G0): Hardware support for Present enabled
+[    25.385] Information: NOUVEAU(G0): [DRI2] Setup complete
+[    25.385] Information: NOUVEAU(G0): [DRI2]   DRI driver: nouveau
+[    25.385] Information: NOUVEAU(G0): [DRI2]   VDPAU driver: nouveau
+[    25.385] Information: Loading sub module "exa"
+[    25.385] Information: LoadModule: "exa"
+[    25.385] Information: Loading /usr/lib/xorg/modules/libexa.so
+[    25.385] Information: Module exa: vendor="X.Org Foundation"
+[    25.385] Information: EXA(256): Driver allocated offscreen pixmaps
+[    25.385] Information: EXA(256): Driver registered support for the following operations:
+[    25.385] Information:         Solid
+[    25.385] Information:         Copy
+[    25.385] Information:         Composite (RENDER acceleration)
+[    25.385] Information:         UploadToScreen
+[    25.385] Information:         DownloadFromScreen
+[    25.385] Information: NOUVEAU(G0): [XvMC] Associated with Nouveau GeForce 8/9 Textured Video.
+[    25.385] Information: NOUVEAU(G0): RandR 1.2 enabled, ignore the following RandR disabled message.
+[    25.386] Information: intel(0): SNA initialized with Haswell (gen7.5, gt2) backend
+[    25.386] Information: intel(0): HW Cursor enabled
+[    25.386] Information: intel(0): RandR 1.2 enabled, ignore the following RandR disabled message.
+[    25.386] Information: intel(0): [DRI2] Setup complete
+[    25.386] Information: intel(0): [DRI2]   DRI driver: i965
+[    25.386] Information: intel(0): [DRI2]   VDPAU driver: va_gl
+[    25.386] Information: intel(0): direct rendering: DRI2 enabled
+[    25.386] Information: intel(0): hardware support for Present enabled
+[    25.406] Information: SELinux: Disabled on system
+[    25.416] Information: AIGLX: enabled GLX_MESA_copy_sub_buffer
+[    25.416] Information: AIGLX: enabled GLX_ARB_create_context
+[    25.416] Information: AIGLX: enabled GLX_ARB_create_context_profile
+[    25.416] Information: AIGLX: enabled GLX_EXT_create_context_es{,2}_profile
+[    25.416] Information: AIGLX: enabled GLX_INTEL_swap_event
+[    25.416] Information: AIGLX: enabled GLX_SGI_swap_control and GLX_MESA_swap_control
+[    25.416] Information: AIGLX: enabled GLX_EXT_framebuffer_sRGB
+[    25.416] Information: AIGLX: enabled GLX_ARB_fbconfig_float
+[    25.416] Information: AIGLX: enabled GLX_EXT_fbconfig_packed_float
+[    25.416] Information: AIGLX: GLX_EXT_texture_from_pixmap backed by buffer objects
+[    25.416] Information: AIGLX: enabled GLX_ARB_create_context_robustness
+[    25.416] Information: AIGLX: Loaded and initialized i965
+[    25.416] Information: GLX: Initialized DRI2 GL provider for screen 0
+[    25.417] Information: NOUVEAU(G0): NVEnterVT is called.
+[    25.419] Information: intel(0): switch to mode 1600x900@60.0 on eDP1 using pipe 0, position (0, 0), rotation normal, reflection none
+[    25.421] Information: intel(0): Setting screen physical size to 423 x 238
+[    25.491] Information: config/udev: Adding input device Power Button (/dev/input/event2)
+[    25.491] Information: LoadModule: "evdev"
+[    25.491] Information: Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    25.523] Information: Module evdev: vendor="X.Org Foundation"
+[    25.523] Information: Using input driver 'evdev' for 'Power Button'
+[    25.523] Information: evdev: Power Button: Configuring as keyboard
+[    25.523] Information: XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[    25.539] Information: config/udev: Adding input device Asus Wireless Radio Control (/dev/input/event8)
+[    25.539] Information: Using input driver 'evdev' for 'Asus Wireless Radio Control'
+[    25.539] Information: evdev: Asus Wireless Radio Control: Configuring as keyboard
+[    25.539] Information: XINPUT: Adding extended input device "Asus Wireless Radio Control" (type: KEYBOARD, id 7)
+[    25.540] Information: config/udev: Adding input device Video Bus (/dev/input/event5)
+[    25.540] Information: Using input driver 'evdev' for 'Video Bus'
+[    25.540] Information: evdev: Video Bus: Configuring as keyboard
+[    25.540] Information: XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+[    25.540] Information: config/udev: Adding input device Video Bus (/dev/input/event4)
+[    25.540] Information: Using input driver 'evdev' for 'Video Bus'
+[    25.540] Information: evdev: Video Bus: Configuring as keyboard
+[    25.540] Information: XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 9)
+[    25.541] Information: config/udev: Adding input device Lid Switch (/dev/input/event0)
+[    25.541] Information: No input driver specified, ignoring this device.
+[    25.541] Information: This device may have been added with another device file.
+[    25.541] Information: config/udev: Adding input device Sleep Button (/dev/input/event1)
+[    25.541] Information: Using input driver 'evdev' for 'Sleep Button'
+[    25.541] Information: evdev: Sleep Button: Configuring as keyboard
+[    25.541] Information: XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 10)
+[    25.542] Information: config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=3 (/dev/input/event9)
+[    25.542] Information: No input driver specified, ignoring this device.
+[    25.542] Information: This device may have been added with another device file.
+[    25.542] Information: config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=7 (/dev/input/event10)
+[    25.542] Information: No input driver specified, ignoring this device.
+[    25.542] Information: This device may have been added with another device file.
+[    25.542] Information: config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=8 (/dev/input/event11)
+[    25.542] Information: No input driver specified, ignoring this device.
+[    25.542] Information: This device may have been added with another device file.
+[    25.542] Information: config/udev: Adding input device MOSART Semi. 2.4G Wireless Mouse (/dev/input/event6)
+[    25.542] Information: Using input driver 'evdev' for 'MOSART Semi. 2.4G Wireless Mouse'
+[    25.600] Information: evdev: MOSART Semi. 2.4G Wireless Mouse: Forcing absolute x/y axes to exist.
+[    25.600] Information: evdev: MOSART Semi. 2.4G Wireless Mouse: Configuring as mouse
+[    25.600] Information: evdev: MOSART Semi. 2.4G Wireless Mouse: Adding scrollwheel support
+[    25.600] Information: XINPUT: Adding extended input device "MOSART Semi. 2.4G Wireless Mouse" (type: MOUSE, id 11)
+[    25.600] Information: evdev: MOSART Semi. 2.4G Wireless Mouse: initialized for relative axes.
+[    25.601] Information: config/udev: Adding input device MOSART Semi. 2.4G Wireless Mouse (/dev/input/mouse0)
+[    25.601] Information: No input driver specified, ignoring this device.
+[    25.601] Information: This device may have been added with another device file.
+[    25.601] Information: config/udev: Adding input device USB Camera (/dev/input/event14)
+[    25.601] Information: Using input driver 'evdev' for 'USB Camera'
+[    25.601] Information: evdev: USB Camera: Configuring as keyboard
+[    25.601] Information: XINPUT: Adding extended input device "USB Camera" (type: KEYBOARD, id 12)
+[    25.601] Information: config/udev: Adding input device HDA Intel PCH Headphone (/dev/input/event13)
+[    25.601] Information: No input driver specified, ignoring this device.
+[    25.601] Information: This device may have been added with another device file.
+[    25.602] Information: config/udev: Adding input device Asus WMI hotkeys (/dev/input/event12)
+[    25.602] Information: Using input driver 'evdev' for 'Asus WMI hotkeys'
+[    25.602] Information: evdev: Asus WMI hotkeys: Configuring as keyboard
+[    25.602] Information: XINPUT: Adding extended input device "Asus WMI hotkeys" (type: KEYBOARD, id 13)
+[    25.602] Information: config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event3)
+[    25.602] Information: Using input driver 'evdev' for 'AT Translated Set 2 keyboard'
+[    25.602] Information: evdev: AT Translated Set 2 keyboard: Configuring as keyboard
+[    25.602] Information: XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 14)
+[    25.603] Information: config/udev: Adding input device ETPS/2 Elantech Touchpad (/dev/input/event7)
+[    25.603] Information: LoadModule: "synaptics"
+[    25.603] Information: Loading /usr/lib/xorg/modules/input/synaptics_drv.so
+[    25.603] Information: Module synaptics: vendor="X.Org Foundation"
+[    25.603] Information: Using input driver 'synaptics' for 'ETPS/2 Elantech Touchpad'
+[    25.672] Information: synaptics: ETPS/2 Elantech Touchpad: found clickpad property
+[    25.704] Information: XINPUT: Adding extended input device "ETPS/2 Elantech Touchpad" (type: TOUCHPAD, id 15)
+[    25.704] Information: config/udev: Adding input device ETPS/2 Elantech Touchpad (/dev/input/mouse1)
+[    27.182] Information: intel(0): EDID vendor "CMN", prod id 5928
+[    27.182] Information: intel(0): Printing DDC gathered Modelines:
+[    27.182] Information: intel(0): Modeline "1600x900"x0.0  107.80  1600 1648 1680 1940  900 903 908 926 +hsync -vsync (55.6 kHz eP)

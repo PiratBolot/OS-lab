@@ -1,0 +1,112 @@
+Запущены следующие службы Windows:
+
+   Adobe Genuine Software Integrity Service
+   AdobeUpdateService
+   ASLDR Service
+   Asus WebStorage Windows Service
+   AtherosSvc
+   ATKGFNEX Service
+   Bonjour Service
+   DHCP-клиент
+   Diagnostics Tracking Service
+   GamesAppIntegrationService
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) Dynamic Platform and Thermal Framework Config TDP Service Application
+   Intel(R) Dynamic Platform and Thermal Framework Critical Service Application
+   Intel(R) Dynamic Platform and Thermal Framework Low Power Mode Service Application
+   Intel(R) Dynamic Platform and Thermal Framework Processor Participant Service Application
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Management and Security Application Local Management Service
+   Intel(R) ME Service
+   Kaspersky Secure Connection Service 1.0.0
+   NVIDIA Display Container LS
+   NVIDIA LocalSystem Container
+   NVIDIA Telemetry Container
+   Plug and Play
+   Quality Windows Audio Video Experience
+   SQL Server (SQLEXPRESS)
+   SQL Server (SQLEXPRESS01)
+   SQL Server CEIP service (SQLEXPRESS)
+   SQL Server CEIP service (SQLEXPRESS01)
+   SQL Server, службы синхронизации контроля версий
+   Superfetch
+   Windows Audio
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Phone IP over USB Transport (IpOverUsbSvc)
+   Windows Search
+   ZAtheros Bt and Wlan Coex Agent
+   Автоматическая настройка сетевых устройств
+   Агент политики IPsec
+   Брандмауэр Windows
+   Браузер компьютеров
+   Брокер времени
+   Брокер системных событий
+   Вспомогательная служба IP
+   Группировка сетевых участников
+   Диспетчер локальных сеансов
+   Диспетчер печати
+   Диспетчер подключений Windows
+   Диспетчер удостоверения сетевых участников
+   Диспетчер учетных данных
+   Диспетчер учетных записей безопасности
+   Журнал событий Windows
+   Изоляция ключей CNG
+   Инструментарий управления Windows
+   Клиент групповой политики
+   Клиент отслеживания изменившихся связей
+   Кэш шрифтов Windows Presentation Foundation 3.0.0.0
+   Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности
+   Модуль запуска процессов DCOM-сервера
+   Модуль поддержки NetBIOS через TCP/IP
+   Настройка сервера удаленных рабочих столов
+   Немедленные подключения Windows - регистратор настройки
+   Обнаружение SSDP
+   Определение оборудования оболочки
+   Перенаправитель портов пользовательского режима служб удаленных рабочих столов
+   Питание
+   Планировщик заданий
+   Планировщик классов мультимедиа
+   Помощник по входу в учетную запись Майкрософт
+   Посредник подключений к сети
+   Поставщик домашней группы
+   Прослушиватель домашней группы
+   Протокол PNRP
+   Публикация ресурсов обнаружения функции
+   Рабочая станция
+   Распространение сертификата
+   Сведения о приложении
+   Сервер
+   Система событий COM+
+   Служба Microsoft Office ClickToRun
+   Служба автоматического обнаружения веб-прокси WinHTTP
+   Служба автонастройки WLAN
+   Служба базовой фильтрации
+   Служба загрузки изображений Windows (WIA)
+   Служба Защитника Windows
+   Служба интерфейса сохранения сети
+   Служба инфраструктуры фоновых задач
+   Служба кэша шрифтов Windows
+   Служба общих сетевых ресурсов проигрывателя Windows Media
+   Служба политики диагностики
+   Служба помощника по совместимости программ
+   Служба проверки сети Защитника Windows
+   Служба профилей пользователей
+   Служба сведений о подключенных сетях
+   Служба сопоставления устройств
+   Служба списка сетей
+   Служба уведомления о системных событиях
+   Службы криптографии
+   Службы удаленных рабочих столов
+   Сопоставитель конечных точек RPC
+   Средство построения конечных точек Windows Audio
+   Темы
+   Удаленный вызов процедур (RPC)
+   Узел службы диагностики
+   Узел универсальных PNP-устройств
+   Фоновая интеллектуальная служба передачи (BITS)
+   Хост поставщика функции обнаружения
+   Центр обеспечения безопасности
+   Шифрованная файловая система (EFS)
+
+Команда выполнена успешно.
+

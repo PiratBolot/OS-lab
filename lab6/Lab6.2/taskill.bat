@@ -1,0 +1,1 @@
+TASKKILL /F /FI "IMAGENAME eq xcopy*"

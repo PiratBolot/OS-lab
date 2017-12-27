@@ -1,0 +1,12 @@
+
+Microsoft Windows [Version 6.3.9600]
+Description                                     FreeSpace     Name  
+Локальный несъемный диск  216546258944  C:    
+Локальный несъемный диск  472716238848  D:    
+Компакт-диск                                       E:    
+Caption                                
+Microsoft Windows 8.1 Single Language  
+FreePhysicalMemory  
+1992612             
+TotalVisibleMemorySize  
+6171924                 

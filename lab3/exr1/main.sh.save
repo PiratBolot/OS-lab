@@ -1,0 +1,3 @@
+
+ps | sed '/PID/d' | awk '{print $1, ":", $4}' | wc -l
+ps | sed '/PID/d' | awk '{print $1, ":", $4}'
